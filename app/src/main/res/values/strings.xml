@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test Mapbox</string>
+
+    <string name="map_style_twc_light">Light</string>
+    <string name="map_style_twc_dark">Dark</string>
+    <string name="map_style_twc_satellite">Satellite</string>
+
+</resources>
